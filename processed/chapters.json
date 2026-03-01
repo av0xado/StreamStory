@@ -1,0 +1,134 @@
+[
+  {
+    "id": "season-2025-Summer-260593596",
+    "kind": "seasonal-obsession",
+    "title": "Sunset Spiral",
+    "subtitle": "Summer 2025 featuring Nils Frahm",
+    "body": "Nils Frahm owned 12.8% of your summer listens (19.29 hours across 240 streams). A clear chapter in your long listening arc.",
+    "metricLabel": "Season share",
+    "metricValue": "12.8%",
+    "when": "Summer 2025",
+    "score": 22.490364438569337
+  },
+  {
+    "id": "season-2025-Autumn-1034325051",
+    "kind": "seasonal-obsession",
+    "title": "Grey-Sky Groove",
+    "subtitle": "Autumn 2025 featuring Radiohead",
+    "body": "Radiohead owned 17.9% of your autumn listens (15.58 hours across 245 streams). A clear chapter in your long listening arc.",
+    "metricLabel": "Season share",
+    "metricValue": "17.9%",
+    "when": "Autumn 2025",
+    "score": 20.051964923814822
+  },
+  {
+    "id": "season-2022-Summer-1694045168",
+    "kind": "seasonal-obsession",
+    "title": "Summer of Melancholy",
+    "subtitle": "Summer 2022 featuring Fontaines D.C.",
+    "body": "Fontaines D.C. owned 16.8% of your summer listens (5.52 hours across 91 streams). A clear chapter in your long listening arc.",
+    "metricLabel": "Season share",
+    "metricValue": "16.8%",
+    "when": "Summer 2022",
+    "score": 9.71864597760123
+  },
+  {
+    "id": "season-2020-Summer-1079665027",
+    "kind": "seasonal-obsession",
+    "title": "Heatwave Replay",
+    "subtitle": "Summer 2020 featuring Little Dragon",
+    "body": "Little Dragon owned 12.1% of your summer listens (5.8 hours across 98 streams). A clear chapter in your long listening arc.",
+    "metricLabel": "Season share",
+    "metricValue": "12.1%",
+    "when": "Summer 2020",
+    "score": 8.819485720164135
+  },
+  {
+    "id": "season-2023-Autumn-1938163202",
+    "kind": "seasonal-obsession",
+    "title": "Leaf-Fall Reflection",
+    "subtitle": "Autumn 2023 featuring Hammock",
+    "body": "Hammock owned 20.4% of your autumn listens (1.16 hours across 15 streams). A clear chapter in your long listening arc.",
+    "metricLabel": "Season share",
+    "metricValue": "20.4%",
+    "when": "Autumn 2023",
+    "score": 6.2511286086177105
+  },
+  {
+    "id": "artist-era-208179104-2017-Autumn",
+    "kind": "artist-era-peak",
+    "title": "Talk Talk Main Character Arc",
+    "subtitle": "Autumn 2017 was your peak chapter with Talk Talk",
+    "body": "You logged 29.34 hours of Talk Talk in this season, enough to color the entire period with a 10.4% share of your soundtrack.",
+    "metricLabel": "Peak season hours",
+    "metricValue": "29.34h",
+    "when": "Autumn 2017",
+    "score": 105629526
+  },
+  {
+    "id": "artist-era-547960330-2017-Summer",
+    "kind": "artist-era-peak",
+    "title": "Pink Floyd Main Character Arc",
+    "subtitle": "Summer 2017 was your peak chapter with Pink Floyd",
+    "body": "You logged 28.42 hours of Pink Floyd in this season, enough to color the entire period with a 6.7% share of your soundtrack.",
+    "metricLabel": "Peak season hours",
+    "metricValue": "28.42h",
+    "when": "Summer 2017",
+    "score": 102328284
+  },
+  {
+    "id": "artist-era-822741987-2017-Spring",
+    "kind": "artist-era-peak",
+    "title": "Ludwig van Beethoven Main Character Arc",
+    "subtitle": "Spring 2017 was your peak chapter with Ludwig van Beethoven",
+    "body": "You logged 28.07 hours of Ludwig van Beethoven in this season, enough to color the entire period with a 6.9% share of your soundtrack.",
+    "metricLabel": "Peak season hours",
+    "metricValue": "28.07h",
+    "when": "Spring 2017",
+    "score": 101054837
+  },
+  {
+    "id": "discovery-2025-06",
+    "kind": "discovery-burst",
+    "title": "Curiosity Bloom",
+    "subtitle": "Jun 2025 was an exploration spike",
+    "body": "You logged 771 unique tracks in Jun 2025, with a novelty rate of 95.3%. This looks like a deliberate digging phase.",
+    "metricLabel": "Novelty rate",
+    "metricValue": "95.3%",
+    "when": "Jun 2025",
+    "score": 6.3822736380261595
+  },
+  {
+    "id": "discovery-2025-05",
+    "kind": "discovery-burst",
+    "title": "Soundtrack Exploration Weekends",
+    "subtitle": "May 2025 was an exploration spike",
+    "body": "You logged 693 unique tracks in May 2025, with a novelty rate of 95.6%. This looks like a deliberate digging phase.",
+    "metricLabel": "Novelty rate",
+    "metricValue": "95.6%",
+    "when": "May 2025",
+    "score": 6.297039059171023
+  },
+  {
+    "id": "comeback-114160713-2025",
+    "kind": "comeback-arc",
+    "title": "Reunion Arc: Junior Brother",
+    "subtitle": "Junior Brother re-entered the soundtrack in 2025",
+    "body": "After a 70-month silence, you came back with 23 plays and 1.67 hours in one burst.",
+    "metricLabel": "Silence gap",
+    "metricValue": "70 months",
+    "when": "2025",
+    "score": 58152.093807632096
+  },
+  {
+    "id": "comeback-2026186710-2023",
+    "kind": "comeback-arc",
+    "title": "Familiar Ghost, New Season: Lankum",
+    "subtitle": "Lankum re-entered the soundtrack in 2023",
+    "body": "After a 48-month silence, you came back with 33 plays and 3.17 hours in one burst.",
+    "metricLabel": "Silence gap",
+    "metricValue": "48 months",
+    "when": "2023",
+    "score": 47266.80691473717
+  }
+]

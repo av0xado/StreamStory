@@ -1,0 +1,792 @@
+[
+  {
+    "year": 2017,
+    "hours": 1215.39,
+    "streams": 16334,
+    "trackHours": 1215.39,
+    "podcastHours": 0,
+    "videoHours": 0,
+    "audiobookHours": 0,
+    "uniqueArtists": 1326,
+    "uniqueTracks": 4313,
+    "skipRate": 0,
+    "shuffleRate": 0.6902,
+    "offlineRate": 0.5928,
+    "nightShare": 0.6723,
+    "busiestMonth": {
+      "monthKey": "2017-07",
+      "label": "July 2017",
+      "hours": 186.5
+    },
+    "topArtists": [
+      {
+        "artist": "Radiohead",
+        "hours": 55.07,
+        "streams": 779
+      },
+      {
+        "artist": "Pink Floyd",
+        "hours": 53.65,
+        "streams": 458
+      },
+      {
+        "artist": "The Smiths",
+        "hours": 36.94,
+        "streams": 600
+      },
+      {
+        "artist": "Lowland Hum",
+        "hours": 36.78,
+        "streams": 642
+      },
+      {
+        "artist": "Sun Kil Moon",
+        "hours": 32.72,
+        "streams": 339
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Rolling and Rolling",
+        "artist": "Lowland Hum",
+        "streams": 31,
+        "hours": 2.1
+      },
+      {
+        "track": "The Origin",
+        "artist": "Stimming",
+        "streams": 30,
+        "hours": 3.31
+      },
+      {
+        "track": "Moser",
+        "artist": "Stavroz",
+        "streams": 29,
+        "hours": 2.69
+      },
+      {
+        "track": "Fold",
+        "artist": "Lowland Hum",
+        "streams": 29,
+        "hours": 1.11
+      },
+      {
+        "track": "Merci éclair",
+        "artist": "Stavroz",
+        "streams": 28,
+        "hours": 2.47
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "hours": 1152.9,
+    "streams": 15893,
+    "trackHours": 1135.51,
+    "podcastHours": 17.4,
+    "videoHours": 0,
+    "audiobookHours": 0,
+    "uniqueArtists": 2438,
+    "uniqueTracks": 5643,
+    "skipRate": 0,
+    "shuffleRate": 0.3771,
+    "offlineRate": 0.445,
+    "nightShare": 0.5193,
+    "busiestMonth": {
+      "monthKey": "2018-11",
+      "label": "November 2018",
+      "hours": 127.68
+    },
+    "topArtists": [
+      {
+        "artist": "Hammock",
+        "hours": 33.72,
+        "streams": 416
+      },
+      {
+        "artist": "Radiohead",
+        "hours": 23.49,
+        "streams": 326
+      },
+      {
+        "artist": "Neil Young",
+        "hours": 17.92,
+        "streams": 198
+      },
+      {
+        "artist": "Father John Misty",
+        "hours": 17.49,
+        "streams": 287
+      },
+      {
+        "artist": "Khruangbin",
+        "hours": 13.93,
+        "streams": 225
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Now and Not Yet",
+        "artist": "Hammock",
+        "streams": 38,
+        "hours": 3.73
+      },
+      {
+        "track": "Mysterium",
+        "artist": "Hammock",
+        "streams": 29,
+        "hours": 3.14
+      },
+      {
+        "track": "Things of Beauty Burn",
+        "artist": "Hammock",
+        "streams": 26,
+        "hours": 1.91
+      },
+      {
+        "track": "Keep On",
+        "artist": "Alfa Mist",
+        "streams": 24,
+        "hours": 3.25
+      },
+      {
+        "track": "Found You",
+        "artist": "Django Django",
+        "streams": 24,
+        "hours": 1.84
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "hours": 573.01,
+    "streams": 7870,
+    "trackHours": 539.39,
+    "podcastHours": 33.61,
+    "videoHours": 0,
+    "audiobookHours": 0,
+    "uniqueArtists": 1346,
+    "uniqueTracks": 3202,
+    "skipRate": 0,
+    "shuffleRate": 0.5029,
+    "offlineRate": 0.4701,
+    "nightShare": 0.4538,
+    "busiestMonth": {
+      "monthKey": "2019-08",
+      "label": "August 2019",
+      "hours": 62.71
+    },
+    "topArtists": [
+      {
+        "artist": "Hammock",
+        "hours": 21.67,
+        "streams": 255
+      },
+      {
+        "artist": "The National",
+        "hours": 14.46,
+        "streams": 243
+      },
+      {
+        "artist": "Bon Iver",
+        "hours": 14.12,
+        "streams": 266
+      },
+      {
+        "artist": "Radiohead",
+        "hours": 10.42,
+        "streams": 153
+      },
+      {
+        "artist": "Villagers",
+        "hours": 10.26,
+        "streams": 155
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Date Night",
+        "artist": "Father John Misty",
+        "streams": 16,
+        "hours": 0.6
+      },
+      {
+        "track": "Now and Not Yet",
+        "artist": "Hammock",
+        "streams": 15,
+        "hours": 1.47
+      },
+      {
+        "track": "29 #Strafford APTS",
+        "artist": "Bon Iver",
+        "streams": 15,
+        "hours": 1.02
+      },
+      {
+        "track": "Abusey Junction",
+        "artist": "Kokoroko",
+        "streams": 14,
+        "hours": 1.24
+      },
+      {
+        "track": "Naeem",
+        "artist": "Bon Iver",
+        "streams": 13,
+        "hours": 0.87
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "hours": 219.93,
+    "streams": 2814,
+    "trackHours": 198.84,
+    "podcastHours": 19.34,
+    "videoHours": 1.75,
+    "audiobookHours": 0,
+    "uniqueArtists": 689,
+    "uniqueTracks": 1694,
+    "skipRate": 0,
+    "shuffleRate": 0.1681,
+    "offlineRate": 0.0107,
+    "nightShare": 0.1923,
+    "busiestMonth": {
+      "monthKey": "2020-12",
+      "label": "December 2020",
+      "hours": 33.11
+    },
+    "topArtists": [
+      {
+        "artist": "Little Dragon",
+        "hours": 6.8,
+        "streams": 114
+      },
+      {
+        "artist": "Hammock",
+        "hours": 5.6,
+        "streams": 63
+      },
+      {
+        "artist": "Tame Impala",
+        "hours": 4.32,
+        "streams": 61
+      },
+      {
+        "artist": "Nils Frahm",
+        "hours": 4.16,
+        "streams": 32
+      },
+      {
+        "artist": "Maribou State",
+        "hours": 4.07,
+        "streams": 64
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Looped",
+        "artist": "Kiasmos",
+        "streams": 12,
+        "hours": 1.2
+      },
+      {
+        "track": "Can't Hurt Me Now",
+        "artist": "Murge",
+        "streams": 12,
+        "hours": 1.1
+      },
+      {
+        "track": "New Fiction",
+        "artist": "Little Dragon",
+        "streams": 12,
+        "hours": 0.53
+      },
+      {
+        "track": "Another Lover",
+        "artist": "Little Dragon",
+        "streams": 11,
+        "hours": 0.74
+      },
+      {
+        "track": "Hold On",
+        "artist": "Little Dragon",
+        "streams": 11,
+        "hours": 0.61
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "hours": 215.82,
+    "streams": 2127,
+    "trackHours": 144.99,
+    "podcastHours": 6.42,
+    "videoHours": 64.41,
+    "audiobookHours": 0,
+    "uniqueArtists": 869,
+    "uniqueTracks": 1449,
+    "skipRate": 0,
+    "shuffleRate": 0.1345,
+    "offlineRate": 0.0099,
+    "nightShare": 0.3617,
+    "busiestMonth": {
+      "monthKey": "2021-12",
+      "label": "December 2021",
+      "hours": 40.12
+    },
+    "topArtists": [
+      {
+        "artist": "DARKSIDE",
+        "hours": 2.62,
+        "streams": 37
+      },
+      {
+        "artist": "Lowland Hum",
+        "hours": 2.34,
+        "streams": 40
+      },
+      {
+        "artist": "Sona Jobarteh",
+        "hours": 1.72,
+        "streams": 22
+      },
+      {
+        "artist": "Sevdaliza",
+        "hours": 1.49,
+        "streams": 22
+      },
+      {
+        "artist": "islandman",
+        "hours": 1.48,
+        "streams": 17
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Pasadena",
+        "artist": "La Femme",
+        "streams": 8,
+        "hours": 0.53
+      },
+      {
+        "track": "Good News",
+        "artist": "Naked Animals",
+        "streams": 8,
+        "hours": 0.48
+      },
+      {
+        "track": "My Deepest Funk",
+        "artist": "Naked Animals",
+        "streams": 8,
+        "hours": 0.37
+      },
+      {
+        "track": "Mamaké",
+        "artist": "Sona Jobarteh",
+        "streams": 7,
+        "hours": 0.6
+      },
+      {
+        "track": "Little Dreamer",
+        "artist": "Future Islands",
+        "streams": 7,
+        "hours": 0.39
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "hours": 240.63,
+    "streams": 3108,
+    "trackHours": 209.96,
+    "podcastHours": 1.19,
+    "videoHours": 29.48,
+    "audiobookHours": 0,
+    "uniqueArtists": 747,
+    "uniqueTracks": 1925,
+    "skipRate": 0.0219,
+    "shuffleRate": 0.4083,
+    "offlineRate": 0.0061,
+    "nightShare": 0.3762,
+    "busiestMonth": {
+      "monthKey": "2022-01",
+      "label": "January 2022",
+      "hours": 59.98
+    },
+    "topArtists": [
+      {
+        "artist": "Hammock",
+        "hours": 6.72,
+        "streams": 79
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "hours": 5.9,
+        "streams": 97
+      },
+      {
+        "artist": "Villagers",
+        "hours": 5.88,
+        "streams": 89
+      },
+      {
+        "artist": "IDLES",
+        "hours": 5.17,
+        "streams": 91
+      },
+      {
+        "artist": "Bon Iver",
+        "hours": 3.93,
+        "streams": 65
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Hollywood Forever Cemetery Sings",
+        "artist": "Father John Misty",
+        "streams": 13,
+        "hours": 0.68
+      },
+      {
+        "track": "Woman of the Ghetto - Akshin Alizadeh Remix",
+        "artist": "Marlena Shaw",
+        "streams": 10,
+        "hours": 0.84
+      },
+      {
+        "track": "Birth Of Creation",
+        "artist": "The Comet Is Coming",
+        "streams": 9,
+        "hours": 0.58
+      },
+      {
+        "track": "The Sound Of This Place - Ypsigrock Festival 2021",
+        "artist": "Camilla Sparksss",
+        "streams": 8,
+        "hours": 0.97
+      },
+      {
+        "track": "New Day",
+        "artist": "Lowland Hum",
+        "streams": 8,
+        "hours": 0.44
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "hours": 344.95,
+    "streams": 3181,
+    "trackHours": 189.11,
+    "podcastHours": 104.09,
+    "videoHours": 51.75,
+    "audiobookHours": 0,
+    "uniqueArtists": 1228,
+    "uniqueTracks": 2111,
+    "skipRate": 0.2131,
+    "shuffleRate": 0.2424,
+    "offlineRate": 0.0185,
+    "nightShare": 0.2235,
+    "busiestMonth": {
+      "monthKey": "2023-05",
+      "label": "May 2023",
+      "hours": 53.02
+    },
+    "topArtists": [
+      {
+        "artist": "DARKSIDE",
+        "hours": 4.84,
+        "streams": 50
+      },
+      {
+        "artist": "Lankum",
+        "hours": 4.22,
+        "streams": 45
+      },
+      {
+        "artist": "Hammock",
+        "hours": 3.68,
+        "streams": 48
+      },
+      {
+        "artist": "the olllam",
+        "hours": 2.26,
+        "streams": 25
+      },
+      {
+        "artist": "Jungle by Night",
+        "hours": 2.2,
+        "streams": 32
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Connection",
+        "artist": "JAMBINAI",
+        "streams": 7,
+        "hours": 0.81
+      },
+      {
+        "track": "Psychic Data",
+        "artist": "TVAM",
+        "streams": 6,
+        "hours": 0.47
+      },
+      {
+        "track": "Newcastle",
+        "artist": "Lankum",
+        "streams": 6,
+        "hours": 0.32
+      },
+      {
+        "track": "Wintergreen (Stimming remix)",
+        "artist": "Stavroz",
+        "streams": 6,
+        "hours": 0.29
+      },
+      {
+        "track": "Youngfella",
+        "artist": "Shakalak",
+        "streams": 6,
+        "hours": 0.25
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "hours": 971.15,
+    "streams": 7277,
+    "trackHours": 393.22,
+    "podcastHours": 430.02,
+    "videoHours": 120.41,
+    "audiobookHours": 27.5,
+    "uniqueArtists": 1779,
+    "uniqueTracks": 3634,
+    "skipRate": 0.2529,
+    "shuffleRate": 0.2773,
+    "offlineRate": 0.0069,
+    "nightShare": 0.2291,
+    "busiestMonth": {
+      "monthKey": "2024-12",
+      "label": "December 2024",
+      "hours": 112.29
+    },
+    "topArtists": [
+      {
+        "artist": "Hammock",
+        "hours": 11.51,
+        "streams": 141
+      },
+      {
+        "artist": "Father John Misty",
+        "hours": 9.09,
+        "streams": 136
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "hours": 8.8,
+        "streams": 153
+      },
+      {
+        "artist": "Nicolas Jaar",
+        "hours": 6.16,
+        "streams": 77
+      },
+      {
+        "artist": "Jamie xx",
+        "hours": 5.95,
+        "streams": 98
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Apolune",
+        "artist": "Jesper Ryom",
+        "streams": 12,
+        "hours": 1.14
+      },
+      {
+        "track": "Ibrik - Mixed",
+        "artist": "Bonobo",
+        "streams": 12,
+        "hours": 0.97
+      },
+      {
+        "track": "La Perla - Tourist Remix",
+        "artist": "Sofia Kourtesis",
+        "streams": 11,
+        "hours": 0.92
+      },
+      {
+        "track": "of plasticity",
+        "artist": "Nonkeen",
+        "streams": 11,
+        "hours": 0.87
+      },
+      {
+        "track": "Change Your Mind",
+        "artist": "Jasper Tygner",
+        "streams": 11,
+        "hours": 0.76
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "hours": 435.3,
+    "streams": 5801,
+    "trackHours": 357.27,
+    "podcastHours": 19.18,
+    "videoHours": 20.06,
+    "audiobookHours": 38.79,
+    "uniqueArtists": 1560,
+    "uniqueTracks": 3882,
+    "skipRate": 0.2422,
+    "shuffleRate": 0.2119,
+    "offlineRate": 0.0031,
+    "nightShare": 0.0712,
+    "busiestMonth": {
+      "monthKey": "2025-07",
+      "label": "July 2025",
+      "hours": 69.43
+    },
+    "topArtists": [
+      {
+        "artist": "Nils Frahm",
+        "hours": 21.52,
+        "streams": 264
+      },
+      {
+        "artist": "Radiohead",
+        "hours": 20.73,
+        "streams": 315
+      },
+      {
+        "artist": "Mick Flannery",
+        "hours": 7.15,
+        "streams": 137
+      },
+      {
+        "artist": "Villagers",
+        "hours": 6.39,
+        "streams": 101
+      },
+      {
+        "artist": "Jockstrap",
+        "hours": 6.37,
+        "streams": 99
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Concrete Over Water",
+        "artist": "Jockstrap",
+        "streams": 10,
+        "hours": 0.93
+      },
+      {
+        "track": "The Person You’d Like To Be",
+        "artist": "Barry Can't Swim",
+        "streams": 10,
+        "hours": 0.46
+      },
+      {
+        "track": "Angst",
+        "artist": "Jockstrap",
+        "streams": 10,
+        "hours": 0.4
+      },
+      {
+        "track": "Are You Tired? (Keep on Singing)",
+        "artist": "DARKSIDE",
+        "streams": 9,
+        "hours": 0.65
+      },
+      {
+        "track": "City Hell",
+        "artist": "Jockstrap",
+        "streams": 8,
+        "hours": 0.59
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "hours": 94.54,
+    "streams": 1416,
+    "trackHours": 94.54,
+    "podcastHours": 0,
+    "videoHours": 0,
+    "audiobookHours": 0,
+    "uniqueArtists": 650,
+    "uniqueTracks": 1205,
+    "skipRate": 0.1808,
+    "shuffleRate": 0.3404,
+    "offlineRate": 0.0092,
+    "nightShare": 0.0196,
+    "busiestMonth": {
+      "monthKey": "2026-01",
+      "label": "January 2026",
+      "hours": 56.29
+    },
+    "topArtists": [
+      {
+        "artist": "King Krule",
+        "hours": 5.57,
+        "streams": 101
+      },
+      {
+        "artist": "Radiohead",
+        "hours": 3.08,
+        "streams": 43
+      },
+      {
+        "artist": "OHELEN",
+        "hours": 2.02,
+        "streams": 31
+      },
+      {
+        "artist": "Yves Tumor",
+        "hours": 1.43,
+        "streams": 27
+      },
+      {
+        "artist": "Nils Frahm",
+        "hours": 1.41,
+        "streams": 10
+      }
+    ],
+    "topTracks": [
+      {
+        "track": "Such a moon",
+        "artist": "OHELEN",
+        "streams": 5,
+        "hours": 0.37
+      },
+      {
+        "track": "Stoned Again",
+        "artist": "King Krule",
+        "streams": 4,
+        "hours": 0.17
+      },
+      {
+        "track": "Sign - Live",
+        "artist": "OHELEN",
+        "streams": 3,
+        "hours": 0.27
+      },
+      {
+        "track": "My Queen Is Nanny Of The Maroons",
+        "artist": "Sons Of Kemet",
+        "streams": 3,
+        "hours": 0.27
+      },
+      {
+        "track": "Are You Tired? (Keep on Singing)",
+        "artist": "DARKSIDE",
+        "streams": 3,
+        "hours": 0.26
+      }
+    ]
+  }
+]

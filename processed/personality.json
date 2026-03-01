@@ -1,0 +1,43 @@
+{
+  "headline": "The Nocturnal Explorer",
+  "avgStreamMinutes": 5,
+  "totalQualifiedStreams": 65821,
+  "totalTrackHours": 4478.22,
+  "traits": [
+    {
+      "id": "night_owl",
+      "label": "Night Owl Index",
+      "score": 69,
+      "value": "40.6% after 10pm",
+      "description": "How much of your listening lives in the late-night window."
+    },
+    {
+      "id": "completion",
+      "label": "Completion Style",
+      "score": 94,
+      "value": "93.5% finished",
+      "description": "Higher means you usually let tracks run rather than skipping."
+    },
+    {
+      "id": "explorer",
+      "label": "Explorer Quotient",
+      "score": 76,
+      "value": "58.2% one-stream tracks",
+      "description": "How much your history shows one-time discoveries and experiments."
+    },
+    {
+      "id": "loyalty",
+      "label": "Loyalty Core",
+      "score": 23,
+      "value": "23.3% from top artists",
+      "description": "How concentrated your listening is around recurring favorites."
+    },
+    {
+      "id": "shuffle",
+      "label": "Shuffle DNA",
+      "score": 51,
+      "value": "42.2% shuffled",
+      "description": "How frequently shuffle mode shapes the listening journey."
+    }
+  ]
+}

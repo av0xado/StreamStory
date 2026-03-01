@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-03-01T22:36:50.642Z",
+  "timezone": "Europe/Dublin",
+  "files": [
+    "summary.json",
+    "timeline_monthly.json",
+    "top_artists.json",
+    "top_tracks.json",
+    "yearly_breakdown.json",
+    "chapters.json",
+    "one_stream_wonders.json",
+    "comeback_arcs.json",
+    "personality.json"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-03-01T22:36:50.642Z",
+  "timezone": "Europe/Dublin",
+  "sourceFiles": [
+    {
+      "fileName": "Streaming_History_Audio_2017-2018_1.json",
+      "rows": 15186,
+      "accepted": 15186,
+      "rejected": 0
+    },
+    {
+      "fileName": "Streaming_History_Audio_2017_0.json",
+      "rows": 15279,
+      "accepted": 15279,
+      "rejected": 0
+    },
+    {
+      "fileName": "Streaming_History_Audio_2018-2019_2.json",
+      "rows": 15052,
+      "accepted": 15052,
+      "rejected": 0
+    },
+    {
+      "fileName": "Streaming_History_Audio_2019-2022_3.json",
+      "rows": 15210,
+      "accepted": 15210,
+      "rejected": 0
+    },
+    {
+      "fileName": "Streaming_History_Audio_2022-2024_4.json",
+      "rows": 15818,
+      "accepted": 15818,
+      "rejected": 0
+    },
+    {
+      "fileName": "Streaming_History_Audio_2024-2026_5.json",
+      "rows": 10912,
+      "accepted": 10912,
+      "rejected": 0
+    },
+    {
+      "fileName": "Streaming_History_Video_2020-2025.json",
+      "rows": 1624,
+      "accepted": 1624,
+      "rejected": 0
+    }
+  ],
+  "dateRange": {
+    "start": "2017-02-28T20:43:09Z",
+    "end": "2026-02-27T19:32:47Z",
+    "startLabel": "Feb 28, 2017",
+    "endLabel": "Feb 27, 2026",
+    "spanYears": 9
+  },
+  "totals": {
+    "events": 89081,
+    "qualifiedEvents": 65821,
+    "totalHours": 5511.73,
+    "qualifiedHours": 5463.62,
+    "trackHours": 4478.22,
+    "podcastHours": 631.25,
+    "videoHours": 287.86,
+    "audiobookHours": 66.29,
+    "uniqueArtists": 6001,
+    "uniqueTracks": 21683,
+    "oneStreamWonders": 12616,
+    "activeDays": 2312,
+    "longestStreakDays": 73
+  },
+  "behavior": {
+    "skipRate": 0.0645,
+    "shuffleRate": 0.4216,
+    "offlineRate": 0.314,
+    "nightShare": 0.4062,
+    "topListeningHour": 0,
+    "avgStreamMinutes": 4.98
+  },
+  "milestones": {
+    "peakMonth": {
+      "monthKey": "2017-07",
+      "year": 2017,
+      "month": 7,
+      "season": "Summer",
+      "label": "Jul 2017",
+      "hours": 186.5,
+      "streams": 2482,
+      "trackHours": 186.5,
+      "podcastHours": 0,
+      "videoHours": 0,
+      "audiobookHours": 0,
+      "trackStreams": 2482,
+      "uniqueArtists": 307,
+      "uniqueTracks": 911,
+      "novelty": 0.367,
+      "nightShare": 0.718
+    },
+    "quietMonth": {
+      "monthKey": "2022-10",
+      "year": 2022,
+      "month": 10,
+      "season": "Autumn",
+      "label": "Oct 2022",
+      "hours": 0.21,
+      "streams": 3,
+      "trackHours": 0.21,
+      "podcastHours": 0,
+      "videoHours": 0,
+      "audiobookHours": 0,
+      "trackStreams": 3,
+      "uniqueArtists": 3,
+      "uniqueTracks": 3,
+      "novelty": 1,
+      "nightShare": 0
+    },
+    "topCountries": [
+      {
+        "country": "CA",
+        "plays": 46036
+      },
+      {
+        "country": "IE",
+        "plays": 32766
+      },
+      {
+        "country": "ZZ",
+        "plays": 6668
+      },
+      {
+        "country": "IN",
+        "plays": 1285
+      },
+      {
+        "country": "GR",
+        "plays": 891
+      },
+      {
+        "country": "SG",
+        "plays": 644
+      },
+      {
+        "country": "GB",
+        "plays": 234
+      },
+      {
+        "country": "PT",
+        "plays": 176
+      }
+    ]
+  }
+}
