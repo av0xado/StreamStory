@@ -212,33 +212,38 @@ h1 {
   border-radius: var(--radius-xl);
   background: var(--panel);
   box-shadow: var(--shadow);
-  padding: 1rem;
+  padding: 1rem 1.1rem 0.9rem;
   overflow-x: auto;
+  position: relative;
 }
 
 .timeline-chart {
   min-width: 980px;
-  height: 300px;
+  height: 320px;
   display: flex;
   align-items: flex-end;
   gap: 4px;
+  padding-inline: 110px;
 }
 
 .timeline-bar {
   position: relative;
   width: 10px;
   flex: 0 0 auto;
-  height: max(3px, calc(var(--h, 0) * 100%));
+  height: max(3px, calc(var(--h, 0) * 78%));
   border-radius: 10px 10px 0 0;
   background: linear-gradient(180deg, var(--accent-teal), var(--accent-warm));
   opacity: 0.82;
   transform-origin: bottom;
   animation: rise 0.8s ease both;
+  outline: none;
 }
 
-.timeline-bar:hover {
+.timeline-bar:hover,
+.timeline-bar:focus-visible {
   opacity: 1;
   filter: brightness(1.08);
+  z-index: 6;
 }
 
 .timeline-bar[data-type="peak"] {
@@ -246,23 +251,24 @@ h1 {
   box-shadow: 0 0 16px rgba(231, 111, 81, 0.45);
 }
 
-.timeline-bar::after {
-  content: attr(data-label);
-  position: absolute;
-  bottom: 100%;
-  left: 50%;
-  transform: translate(-50%, -0.45rem);
+.timeline-tooltip {
+  position: fixed;
+  left: 0;
+  top: 0;
   opacity: 0;
   pointer-events: none;
   white-space: nowrap;
-  background: rgba(0, 0, 0, 0.78);
+  background: rgba(4, 13, 20, 0.94);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 10px;
-  padding: 0.28rem 0.42rem;
+  padding: 0.32rem 0.48rem;
   font-size: 0.72rem;
+  color: var(--ink);
+  z-index: 1000;
+  transition: opacity 120ms ease;
 }
 
-.timeline-bar:hover::after {
+.timeline-tooltip.visible {
   opacity: 1;
 }
 
@@ -597,7 +603,8 @@ select {
 
   .timeline-chart {
     min-width: 760px;
-    height: 250px;
+    height: 260px;
+    padding-inline: 72px;
   }
 }
 
@@ -616,6 +623,7 @@ select {
 
   .timeline-chart {
     min-width: 640px;
-    height: 210px;
+    height: 220px;
+    padding-inline: 52px;
   }
 }

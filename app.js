@@ -149,21 +149,76 @@ function renderStats(summary, chapters) {
 
 function renderTimeline(timeline, summary) {
   const chart = byId("timelineChart");
+  const wrap = chart.closest(".timeline-wrap");
   const peakKey = summary.milestones.peakMonth?.monthKey;
   const maxHours = Math.max(...timeline.map((item) => item.hours), 1);
+  const tooltipId = "timelineTooltip";
+
+  let tooltip = document.getElementById(tooltipId);
+  if (!tooltip) {
+    tooltip = document.createElement("div");
+    tooltip.id = tooltipId;
+    tooltip.className = "timeline-tooltip";
+    document.body.appendChild(tooltip);
+  }
+
+  const hideTooltip = () => {
+    tooltip.classList.remove("visible");
+  };
+
+  const placeTooltip = (bar, label, clientX) => {
+    tooltip.textContent = label;
+    tooltip.classList.add("visible");
+
+    const barRect = bar.getBoundingClientRect();
+    const tooltipRect = tooltip.getBoundingClientRect();
+    const viewportPad = 10;
+    const anchorX = Number.isFinite(clientX) ? clientX : barRect.left + barRect.width / 2;
+
+    let left = anchorX - tooltipRect.width / 2;
+    left = Math.max(viewportPad, Math.min(left, window.innerWidth - tooltipRect.width - viewportPad));
+
+    let top = barRect.top - tooltipRect.height - 10;
+    if (top < viewportPad) {
+      top = barRect.bottom + 10;
+    }
+
+    tooltip.style.left = `${Math.round(left)}px`;
+    tooltip.style.top = `${Math.round(top)}px`;
+  };
 
   chart.innerHTML = "";
   timeline.forEach((month, index) => {
     const bar = document.createElement("div");
     bar.className = "timeline-bar";
+    bar.tabIndex = 0;
     bar.style.setProperty("--h", String(month.hours / maxHours));
     bar.dataset.label = `${month.label} • ${month.hours.toFixed(1)}h • ${month.trackStreams} tracks`;
+    bar.setAttribute("aria-label", bar.dataset.label);
+
+    const show = (event) => {
+      placeTooltip(bar, bar.dataset.label, event?.clientX);
+    };
+
+    bar.addEventListener("mouseenter", show);
+    bar.addEventListener("mousemove", show);
+    bar.addEventListener("focus", show);
+    bar.addEventListener("mouseleave", hideTooltip);
+    bar.addEventListener("blur", hideTooltip);
+
     if (month.monthKey === peakKey) {
       bar.dataset.type = "peak";
     }
     bar.style.animationDelay = `${Math.min(index * 0.01, 0.6)}s`;
     chart.appendChild(bar);
   });
+
+  if (!tooltip.dataset.bound) {
+    wrap?.addEventListener("scroll", hideTooltip, { passive: true });
+    window.addEventListener("scroll", hideTooltip, { passive: true });
+    window.addEventListener("resize", hideTooltip, { passive: true });
+    tooltip.dataset.bound = "true";
+  }
 }
 
 function renderRankedList(containerId, items, kind) {
